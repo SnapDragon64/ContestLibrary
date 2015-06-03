@@ -1,0 +1,7 @@
+c:/cygwin/home/SnapDragon/acm/ContestLibrary/algorithms.h
+c:/cygwin/home/SnapDragon/acm/ContestLibrary/macros.h
+c:/cygwin/home/SnapDragon/acm/ContestLibrary/math.h
+c:/cygwin/home/SnapDragon/acm/ContestLibrary/mathtypes.h
+c:/cygwin/home/SnapDragon/acm/ContestLibrary/matrix.h
+c:/cygwin/home/SnapDragon/acm/ContestLibrary/misc.h
+c:/cygwin/home/SnapDragon/acm/ContestLibrary/parsing.h

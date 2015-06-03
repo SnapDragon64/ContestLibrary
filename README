@@ -1,0 +1,8 @@
+"process" is the program I use to automatically add includes and library code
+to my C++ submissions before submitting.  You'll probably have to change a
+few things before you can use it:
+- Rename the .exes in the Makefile (if you're on Linux rather than Cygwin).
+- Rename the directories in library.txt to your repository location.
+- If you want to use it from gvim (say by pushing CTRL-P), add the following to
+  your .gvimrc:
+nmap <C-P> :%!{repository directory}/process.exe {repository directory}/includes.txt {repository directory}/library.txt<CR><CR>
